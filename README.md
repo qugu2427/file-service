@@ -1,4 +1,4 @@
-# ExpressJSFileServer
+# file-service
 an express file server
 
 To upload a file: <br>
